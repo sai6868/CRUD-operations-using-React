@@ -1,0 +1,15 @@
+.form-group {
+  margin-top: 10px;
+}
+
+.inp-disabled {
+  cursor: not-allowed;
+}
+
+form {
+  padding: 0px !important;
+}
+
+.table {
+  background-image: linear-gradient(-90deg, #F0F2F0, #B2FEFA);
+}
